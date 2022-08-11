@@ -1,36 +1,20 @@
-# Classification algorithms
+# Deep Learning and Computer vision algorithms
 
 ## Jupyther notebooks
 
-- [Classification with scikit-learn](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20I.ipynb)
-    - [k-nearest neighbors](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/k-nearest%20neighbors.ipynb)
-    - [logistic regression]()
-    - [support vector machines]()
-- [Cross validation and Classification Metrics](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20II%20-%20Classification%20Metrics%20and%20Cross%20Validation.ipynb)
-- [Grid Search](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20III.%20Grid%20Search.ipynb)
-- [Classification Threshold](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20IV.%20Adjusting%20the%20classification%20threshold.ipynb)
-- [Feature Engineering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20V.%20Feature%20Engineering.ipynb)
-- [Pipelines](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VI.%20Pipeline.ipynb)
-- [More Classification Models](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VII.%20More%20Classification%20Algorithms.ipynb)
-- [Adding regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Classification/notebooks/Part%20VIII.%20Adding%20regularization%20and%20polynomial%20features.ipynb)
- 
-## Practice Problems
-- [Numerical and Categorical features: The adult census dataset](hell) ([solutions](still_hell))
+- [Simple Neural Net (tensorflow), digit classifier](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Artificial%20Neural%20Networks.ipynb)
 
-## Homework 
-- [Handwritten digits]()
-- [A linguistic street map of Singapore]()
-- [A simple face detector]()
-- [Diabetes in America: Identifying at-risk individuals]()
+- [Convolutional Nueral Net, image classifier](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Convoutional%20Nueral%20network.ipynb)
 
-## Datasets
+- [Simple Face Detector](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Simple%20Face%20Detector.ipynb)
 
-Filename | Description |  Source
---- | --- |  --- 
-[LLCP2019.ASC](https://www.cdc.gov/brfss/annual_data/2019/files/LLCP2019ASC.zip) | The Behavioral Risk Factor Surveillance System Survey | [CDC](https://www.cdc.gov/brfss/annual_data/annual_2019.html)
-[pima.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/pima.csv) | Pima indians diabetes database | [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
-[iris.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/iris.csv) | 50 samples of 3 different species of iris | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
-[streets.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/streets.csv) | Singapore street names | [Michelle Fullwood](https://michelleful.github.io/code-blog/2015/04/24/sgmap/)
-[digits.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/digits.csv) | Subset of the MNIST dataset 
-[digits_test.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/digits_test.csv) | Subset of the MNIST dataset
-[titanic.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/titanic.csv) | Famous Titanic daseset from Kaggle | [Kaggle](https://www.kaggle.com/c/titanic)
+- [Time series forecasting,(Recurrent Neural Net from scratch) regression] https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Traffic%20forecasting%20Recurent%20Neural%20Network.ipynb)
+
+- [Time series forecasting(Simple Nueral Net tensorflow/keras), regression](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Time%20series%20forecasting%20Neural%20Network.ipynb)
+
+- [Simple Neural Net (from scratch), regression](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Simple%20neural%20net%20function%20approximation.ipynb)
+
+- [Simple Neural Net (from scratch), digit classifier](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Artificial%20Neural%20Networks.ipynb)
+
+- [Over fitting a Neural Net (from scratch), digit classifier](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Overfitting%20a%20Neural%20Network.ipynb)
+
