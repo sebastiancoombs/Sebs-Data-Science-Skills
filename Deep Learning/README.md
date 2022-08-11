@@ -8,7 +8,7 @@
 
 - [Simple Face Detector](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Simple%20Face%20Detector.ipynb)
 
-- [Time series forecasting,(Recurrent Neural Net from scratch) regression] https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Traffic%20forecasting%20Recurent%20Neural%20Network.ipynb)
+- [Time series forecasting,(Recurrent Neural Net from scratch) regression](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Traffic%20forecasting%20Recurent%20Neural%20Network.ipynb)
 
 - [Time series forecasting(Simple Nueral Net tensorflow/keras), regression](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Time%20series%20forecasting%20Neural%20Network.ipynb)
 
