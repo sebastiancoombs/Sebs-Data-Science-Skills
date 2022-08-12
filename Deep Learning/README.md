@@ -1,7 +1,7 @@
 # Deep Learning and Computer vision algorithms
 
-<img src="friends1.png" height="350" width = "1000">
-<img src="friends2.png" height="350" width = "1000">
+<img src="friends1.png" height="350" width = "700">
+<img src="friends2.png" height="350" width = "700">
 
 ## Jupyther notebooks
 
