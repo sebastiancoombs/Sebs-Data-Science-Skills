@@ -1,4 +1,9 @@
 # Dimensionality Reduction
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 <img src="dim_lines.png" height="350" width = "1000">
 <img src="dim_points.png" height="350" width = "350">
 
