@@ -1,5 +1,9 @@
 # Trees and Ensembles
 
+<p align="center">
+  <img src="tree.png" height="500" width = "500">
+</p>
+
 ## Jupyter notebooks
 - [Credit default predicition](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Random%20Forests/Credit%20default%20predicition.ipynb)
 - [Customer churn prediction](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Random%20Forests/Customer%20churn%20prediction.ipynb)
