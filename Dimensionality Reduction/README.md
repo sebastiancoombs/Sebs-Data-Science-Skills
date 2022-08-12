@@ -2,7 +2,7 @@
 
 <img src="dim_lines.png" height="350" width = "1000">
 <p align="center">
-  <img src="dim_points.png" height="350" width = "350">
+  <img src="dim_points.png" height="500" width = "500">
 </p>
 
 ## Jupyter notebooks
