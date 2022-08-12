@@ -1,4 +1,4 @@
-# Recommender Systems
+# Recommendation Systems
 <img src="homer.png" height="350" width = "1000">
 
 ## Jupyter notebooks
