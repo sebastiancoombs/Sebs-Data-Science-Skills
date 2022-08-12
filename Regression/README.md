@@ -1,6 +1,6 @@
 # Regression
 
-<img src="regression.png"eight="350" width = "1000">
+<img src="regression.png" eight="350" width = "1000">
                                                     
 ## Jupyter notebooks
 - [Forecasting weekly covid deaths.ipynb](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Regression/Forecasting%20weekly%20covid%20deaths.ipynb)
