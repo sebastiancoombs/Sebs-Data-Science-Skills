@@ -5,10 +5,10 @@
 This is the GitHub repository of Sebastian Coombs' Data Science projects:
 ## Contents:
 - Main Projects:
-    - [Currency Price Prediction](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/README.md)
-    - [Montana State Corrections Project](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/README.md)
-    - [TSNE](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/README.md)
-    - [HVAC](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/README.md)
+    - [Currency Price Prediction](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Main%20Projects/RNN_FX.ipynb)
+    - [Montana State Corrections Project](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Main%20Projects/Corrections%20proj.ipynb)
+    - [TSNE](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Dimensionality%20Reduction/Dimensionality%20Reduction%20-%20t-Stochastic%20Neighbor%20Embedding(try%20with%20smoothed%20data).ipynb)
+    - [HVAC](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Main%20Projects/celltowers%20models.ipynb)
 
 - [Deep Learning (for Natural Language Processing, Image Classification and Computer Vision)](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/README.md)
 - [Recommender Systems](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/tree/main/Recomender%20Systems/README.md)
