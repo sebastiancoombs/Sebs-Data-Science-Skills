@@ -1,5 +1,8 @@
 # Deep Learning and Computer vision algorithms
 
+<img src="friends1.png" height="350" width = "1000">
+<img src="friends2.png" height="350" width = "1000">
+
 ## Jupyther notebooks
 
 - [Simple Neural Net (tensorflow), digit classifier](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Deep%20Learning/Artificial%20Neural%20Networks.ipynb)

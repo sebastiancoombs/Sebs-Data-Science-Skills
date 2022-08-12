@@ -1,5 +1,5 @@
 # Clustering Algorithms
-
+<img src="clusters.png" height="350" width = "1000">
 ## Jupyter notebooks
 - [Clustering Flowers, Irises, and Penguins.ipynb](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Clustering/Clustering%20Flowers%20irises%20and%20penguins.ipynb)
 - [Clustering for Image Color Segmentation](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Clustering/Clustering%20for%20Color%20Segmentation.ipynb)

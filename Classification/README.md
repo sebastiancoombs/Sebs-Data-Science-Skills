@@ -1,5 +1,6 @@
 # Classification algorithms
-
+<img src="clothing_class.png" height="350" width = "1000">
+<img src="face_class" height="350" width = "1000">
 ## Jupyter notebooks
 - [Classification of handwritten digits](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Classification/Classification%20of%20handwritten%20digits.ipynb)
 - [Clothing and Face Image Classification](https://github.com/sebastiancoombs/Sebs-Data-Science-Skills/blob/main/Classification/Mnist%20Faces%20and%20penguins.ipynb)
